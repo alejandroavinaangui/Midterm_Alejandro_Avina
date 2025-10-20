@@ -29,6 +29,7 @@ struct ContentView: View {
                     section in
                     NavigationLink(destination:{
                         VStack{
+                            Text(section.name)
                             Image(section.imageName)
                             .resizable()
                             .frame(height:400)
