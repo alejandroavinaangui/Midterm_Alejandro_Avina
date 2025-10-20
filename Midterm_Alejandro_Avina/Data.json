@@ -1,0 +1,56 @@
+[
+    {
+        "id": "aa32jj887hhg55",
+        "name": "Thread Tap",
+        "description": "A tap is a metal cutting tool used to create internal screw threads inside a hole. It works by removing small amounts of material as it is turned into the drilled hole. Taps come in different types, such as taper, plug, and bottoming, depending on how deep the threads need to go. They are commonly used in metalworking and mechanical repair to prepare holes for bolts or screws.",
+        "imageName": "tapTool"
+    },
+    {
+        "id": "bb32jj887hhg77",
+        "name": "Probe",
+        "description": "A CNC probe is a precision sensor used to measure the position, dimensions, or surface of a workpiece directly on a CNC machine. It helps automate setup and inspection by detecting contact with the part and sending feedback to the machine’s control system. This improves accuracy, reduces setup time, and minimizes human error during machining operations.",
+        "imageName": "probe"
+    },
+    {
+        "id": "cc32jj887hhg66",
+        "name": "Key cutter",
+        "description": "A key cutter tool used for machining is a specialized cutting tool designed to create keyways or slots in shafts, gears, or pulleys. It typically features a narrow, straight-edged profile that removes material precisely to form the slot where a key fits for torque transmission.",
+        "imageName": "keyCutter"
+    },
+    {
+        "id": "dd32jj887hhg88",
+        "name": "Face Mill",
+        "description": "A facemill is a milling cutter designed to remove material from large, flat surfaces of a workpiece. It uses multiple replaceable cutting inserts mounted around its periphery to achieve high metal removal rates and smooth finishes. Facemills are commonly used in CNC and manual milling machines for facing operations on metals and other materials.",
+        "imageName": "faceMill"
+    },
+    {
+        "id": "ee32jj887hhg99",
+        "name": "End Mill",
+        "description": "An endmill is a cutting tool used in milling machines and CNC machining to remove material from a workpiece. It features cutting edges on both the end and sides, allowing it to perform a variety of operations such as slotting, profiling, and contouring. Endmills come in different shapes, sizes, and materials to suit specific machining tasks and materials.",
+        "imageName": "endmillTool"
+    },
+    {
+        "id": "ff32jj887hhg99",
+        "name": "Drill",
+        "description": "A drill is a cutting tool used to create round holes in a workpiece by rotating against the material. It typically has two helical flutes that guide chips away from the cutting edge while allowing coolant to reach the tip. Drills are used in both manual and CNC machines for precise hole-making in metals, wood, and plastics.",
+        "imageName": "drill"
+    },
+    {
+        "id": "gg32jj887hhg99",
+        "name": "Chamfer Cutter",
+        "description": "A chamfer cutter is a machining tool used to create angled edges, or chamfers, on a workpiece. It typically has a conical or angled cutting profile that removes sharp corners to improve part safety, assembly fit, and appearance. Chamfer cutters are commonly used in CNC and manual milling operations to prepare edges for threading, welding, or finishing.",
+        "imageName": "chamferCutter"
+    },
+    {
+        "id": "hh32jj887hhg99",
+        "name": "Boring Bar",
+        "description": "A boring bar is a precision cutting tool used to enlarge or finish the inside diameter of an existing hole. It holds a single-point cutting insert that removes material as it rotates inside the workpiece, ensuring accurate size and surface finish. Boring bars are commonly used in lathes and CNC machines for creating precise, smooth, and concentric internal bores.",
+        "imageName": "boringBar"
+    },
+    {
+        "id": "ii32jj887hhg99",
+        "name": "Ball End Mill",
+        "description": "A ball endmill is a cutting tool with a hemispherical tip used in milling machines and CNC machining. Its rounded end allows for smooth contouring, 3D shaping, and intricate surface finishing on complex workpieces. Ball endmills are ideal for machining molds, dies, and curved surfaces where precision and smooth edges are required.",
+        "imageName": "ballendmillTool"
+    }
+]
